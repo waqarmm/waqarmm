@@ -1,16 +1,13 @@
-### Hi there 👋
+About Me: I am a Full Stack developer with over 4 years of experience in Back-End Development. 
+I specialize in using technologies such as NodeJS, MongoDB, Python, MySQL, ExpressJS, React, Redux, GraphQL, and AWS.
 
-<!--
-**waqarmm/waqarmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:
 
-Here are some ideas to get you started:
+Back-End Development: NodeJS, MongoDB, Python, MySQL, ExpressJS
+Front-End Development: React, Redux, TypeScript, JavaScript
+Web Design: HTML5, CSS3, SCSS, LESS, SASS, BootStrap, Material-UI, Ant Design, ReactStrap, Tailwind CSS
+API Integration: Rest API, GraphQL, Firebase, Social authentication (Facebook, Google, Apple), Payment Gateway Integration
+Tools and Platforms: Git, Github, GitLab, Bitbucket, Asana, Jira, Trello, ClickUp, Slack, Microsoft Teams, Facebook Workspace, Skype, Google Meet, Zoom Meetings, Sketch, AdobeXD, Zeplin, Figma, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to new opportunities and collaborations. 
+Feel free to contact me to discuss any projects or opportunities you may have.
