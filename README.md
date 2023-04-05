@@ -4,8 +4,12 @@ I specialize in using technologies such as NodeJS, MongoDB, Python, MySQL, Expre
 Skills:
 
 Back-End Development: NodeJS, MongoDB, Python, MySQL, ExpressJS
+
 Front-End Development: React, Redux, TypeScript, JavaScript
+
+
 Web Design: HTML5, CSS3, SCSS, LESS, SASS, BootStrap, Material-UI, Ant Design, ReactStrap, Tailwind CSS
+
 API Integration: Rest API, GraphQL, Firebase, Social authentication (Facebook, Google, Apple), Payment Gateway Integration
 Tools and Platforms: Git, Github, GitLab, Bitbucket, Asana, Jira, Trello, ClickUp, Slack, Microsoft Teams, Facebook Workspace, Skype, Google Meet, Zoom Meetings, Sketch, AdobeXD, Zeplin, Figma, AWS
 
