@@ -1,4 +1,4 @@
-⚡ About Me: I am a Full Stack developer with over 7 years of experience in Back-End Development. 
+⚡ About Me: With over 7 years of experience in Back-End Development. 
 I specialize in using technologies such as NodeJS, MongoDB, Python, MySQL, ExpressJS, React, Redux, GraphQL, and AWS.
 
 ⚡ Skills:
